@@ -1,4 +1,4 @@
-# File:         rex.r 
+# File:         a_star.r 
 # Description:  A* algorithms 
 #               for Project 1, Artificial Intelligence 2019, UU
 # Author:       Rex Ruan
